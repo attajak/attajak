@@ -4,6 +4,6 @@ _site
 .jekyll-metadata
 .bundle
 vendor
+docs/_site
 .replit
 replit.nix
-
