@@ -20,3 +20,5 @@ end
 gem "faraday-retry", "~> 2.2"
 
 gem "tzinfo-data", "~> 1.2024"
+
+gem "jekyll-remote-theme", "~> 0.4.3"
