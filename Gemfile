@@ -15,10 +15,9 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-sitemap", "~> 1.4"
   gem "jekyll-gist", "~> 1.5"
+  gem "jekyll-remote-theme", "~> 0.4.3"
 end
 
 gem "faraday-retry", "~> 2.2"
 
 gem "tzinfo-data", "~> 1.2024"
-
-gem "jekyll-remote-theme", "~> 0.4.3"
