@@ -8,7 +8,7 @@
 
 > "แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร"
 
-[![attajak](assets/images/attajak.jpg)](https://attajak.github.io)
+[![attajak](https://attajak.github.io/assets/images/attajak.jpg)](https://attajak.github.io)
 
 ### Support or Contact
 
