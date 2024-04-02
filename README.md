@@ -2,7 +2,7 @@
 
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ
 
-**ชอบ**_ดูหนัง_ _ฟังเพลง_ _เล่นเกม_
+**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_
 
 > "งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย"
 
@@ -27,14 +27,6 @@ Gmail: | [AttajakJanrak at Gmail.com](mailto:janrak@gmail.com)
 Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
-
-[GitHub](https://github.com/attajak) - [GitHub Pages](https://attajak.github.io) - 
-[Facebook](https://facebook.com/attajak) - 
-[Twitter](https://twitter.com/attajak) - 
-[Instagram](https://instagram.com/attajak) - 
-[YouTube](https://youtube.com/@attajak) - 
-[Website](https://attajak.wordpress.com) - [Blogger](https://attajak.blogspot.com) - 
-[Gmail](mailto:janrak@gmail.com) - [Outlook](mailto:attajak@outlook.com)
 
 - 👋 Hi, I’m @attajak
 - 👀 I’m interested in ... ดูหนัง ฟังเพลง เล่นเกม
