@@ -2,11 +2,13 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+Gemfile
+Gemfile.lock
+
 .upm
 .local
 .bundle
 vendor
-Gemfile
-Gemfile.lock
+
 .replit
 replit.nix
