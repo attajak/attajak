@@ -6,6 +6,7 @@ _site
 .local
 .bundle
 vendor
+Gemfile
 Gemfile.lock
 .replit
 replit.nix
