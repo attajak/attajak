@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
+  - title: "หน้าแรก"
     url: /
-  - title: "Posts"
+  - title: "โพสต์"
     url: /posts/
-  - title: "About"
+  - title: "เกี่ยวกับ"
     url: /about/
-  - title: "Contact"
+  - title: "ติดต่อ"
     url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
