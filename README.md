@@ -23,7 +23,7 @@ Instagram: | [attajak](https://instagram.com/attajak)
 YouTube: | [@attajak](https://youtube.com/@attajak)
 WordPress: | [Attajak.WordPress.com](https://attajak.wordpress.com)
 Blogger: | [Attajak.Blogspot.com](https://attajak.blogspot.com)
-Gmail: | [AttajakJanrak at Gmail.com](mailto:janrak@gmail.com)
+Gmail: | [Janrak at Gmail.com](mailto:janrak@gmail.com)
 Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
