@@ -1,5 +1,3 @@
-[![pages-build-deployment](https://github.com/attajak/attajak/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/attajak/attajak/actions/workflows/pages/pages-build-deployment)
-
 ## Welcome to Attajak Janrak
 
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ
