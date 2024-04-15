@@ -16,6 +16,8 @@ Platform | UserName
 --- | ---
 GitHub: | [attajak](https://github.com/attajak)
 GitHub Pages: | [Attajak.GitHub.io](https://attajak.github.io)
+GitLab: | [attajak](https://gitlab.com/attajak)
+GitLab Pages: | [Attajak.GitLab.io](https://attajak.gitlab.io)
 Facebook: | [attajak](https://facebook.com/attajak)
 Twitter: | [@attajak](https://twitter.com/attajak)
 Fediverse | [@attajak@mastodon.in.th](https://mastodon.in.th/@attajak)
