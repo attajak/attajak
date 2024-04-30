@@ -1,8 +1,8 @@
-[@attajak](https://github.com/attajak)
-|
+# @attajak
+
 [![@Attajak on Replit](https://replit.com/badge?caption=@Attajak%20on%20Replit)](https://replit.com/@attajak)
 
-## Welcome to Attajak Janrak
+## Attajak Janrak
 
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ
 
@@ -10,7 +10,7 @@
 
 [![attajak](https://attajak.github.io/assets/images/attajak.jpg)](https://attajak.github.io)
 
-### Follow or Contact
+### Contact
 
 Platform | Username or Links
 --- | ---
@@ -39,6 +39,8 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 > งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย
 
 ---
+
+### Welcome
 
 - 👋 Hi, I’m @attajak
 - 👀 I’m interested in ... ดูหนัง ฟังเพลง เล่นเกม
