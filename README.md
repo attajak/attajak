@@ -1,4 +1,4 @@
-# @attajak
+# [@attajak](https://github.com/attajak)
 
 [![@Attajak on Replit](https://replit.com/badge?caption=@Attajak%20on%20Replit)](https://replit.com/@attajak)
 
@@ -34,19 +34,22 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
 
+### คำคม
 > แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร
 
 > งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย
 
 ---
 
-### Welcome
+<!---
+## Welcome
 
 - 👋 Hi, I’m [@attajak](https://github.com/attajak)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 attajak/attajak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
