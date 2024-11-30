@@ -12,12 +12,13 @@
 
 ### Contact
 
-Platform | Username/Links
+Platforms | Username/Links
 --- | ---
 GitHub: | [attajak](https://github.com/attajak)
 GitHub Pages: | <https://attajak.github.io>
 GitLab: | [attajak](https://gitlab.com/attajak)
 GitLab Pages: | <https://attajak.gitlab.io>
+Google Firebase: | <https://attajak.web.app>
 CloudFlare Pages: | <https://attajak.pages.dev>
 Replit: | [@attajak](https://replit.com/@attajak)
 Facebook: | [attajak](https://facebook.com/attajak)
