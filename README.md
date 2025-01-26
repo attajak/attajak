@@ -1,11 +1,11 @@
 # [@attajak](https://github.com/attajak)
 
+<!-- Replit badge -->
 [![@Attajak on Replit](https://replit.com/badge?caption=@Attajak%20on%20Replit)](https://replit.com/@attajak)
+<!-- End Replit badge -->
 
 ## Attajak Janrak
-
-**ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ
-
+**ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
 **ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_
 
 [![attajak](https://attajak.github.io/assets/images/attajak.jpg)](https://attajak.github.io)
