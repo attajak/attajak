@@ -19,4 +19,5 @@ plugins:
   - jekyll-site-map
   - jekyll-readme-index
 
-remote_theme: jekyll/minina@v2.5.2
+theme: minima
+# remote_theme: jekyll/minina
