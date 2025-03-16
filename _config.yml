@@ -1,0 +1,22 @@
+url: "https://attajak.github.io"
+baseurl: "/attajak"
+permalink: pretty
+
+title: "Attajak"
+author: attajak
+email: janrak@gmail.com
+description: "Config file for my GitHub profile"
+
+github_username: attajak
+github_username: attajak
+twitter_username: attajak
+facebook_username: attajak
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-site-map
+  - jekyll-readme-index
+
+remote_theme: jekyll/minina@v2.5.2
