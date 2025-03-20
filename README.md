@@ -5,12 +5,13 @@
 <!-- End Replit badge -->
 
 ## Attajak Janrak
+
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
 **ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_
 
 [![attajak](https://attajak.github.io/assets/images/attajak.jpg)](https://attajak.github.io)
 
-### Contact
+### Follow or Contact
 
 Platforms | Username/Links
 --- | ---
@@ -18,6 +19,8 @@ GitHub: | [attajak](https://github.com/attajak)
 GitHub Pages: | <https://attajak.github.io>
 GitLab: | [attajak](https://gitlab.com/attajak)
 GitLab Pages: | <https://attajak.gitlab.io>
+BitBucket: | [attajakjanrak](https://bitbucket.org/attajakjanrak/)
+BitBucket Pages: | <https://attajakjanrak.bitbucket.io>
 Google Firebase: | <https://attajak.web.app>
 CloudFlare Pages: | <https://attajak.pages.dev>
 Netlify: | <https://attajak.netlify.app>
@@ -38,6 +41,7 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 ---
 
 ### คำคม
+
 > แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร
 
 > งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย
