@@ -9,8 +9,6 @@
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
 **ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_
 
-<iframe src="https://github.com/sponsors/attajak/card" title="Sponsor attajak" height="225" width="600" style="border: 0;"></iframe>
-
 [![attajak](https://attajak.github.io/assets/images/attajak.png)](https://attajak.github.io)
 
 ### Follow or Contact
