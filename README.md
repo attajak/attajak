@@ -5,7 +5,7 @@
 <!-- End Replit Badge -->
 
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
-**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_ 
+**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_  
 🇹🇭
 
 [![attajak](https://attajak.github.io/assets/images/attajak.png)](https://attajak.github.io)
