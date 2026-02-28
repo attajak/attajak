@@ -1,17 +1,16 @@
-# [@attajak](https://github.com/attajak)
+# Attajak Janrak [@attajak](https://github.com/attajak)
 
-<!-- Replit badge -->
+<!-- Start Replit Badge -->
 [![@Attajak on Replit](https://replit.com/badge?caption=@Attajak%20on%20Replit)](https://replit.com/@attajak)
-<!-- End Replit badge -->
-
-## Attajak Janrak
+<!-- End Replit Badge -->
 
 **ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
-**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_
+**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_ 
+🇹🇭
 
 [![attajak](https://attajak.github.io/assets/images/attajak.png)](https://attajak.github.io)
 
-### Follow or Contact
+## Follow or Contact
 
 Platforms | Username/Links
 --- | ---
@@ -40,7 +39,7 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
 
-### คำคม
+## คำคม
 
 > แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร
 
@@ -48,7 +47,6 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
 
-<!--
 - 👋 Hi, I’m [@attajak](https://github.com/attajak)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -57,4 +55,3 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 attajak/attajak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
