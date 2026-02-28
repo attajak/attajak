@@ -8,7 +8,7 @@
 **ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_  
 🇹🇭
 
-[![attajak](https://attajak.github.io/assets/images/attajak.png)](https://attajak.github.io)
+[![attajak](/android-chrome-512x512.png)](https://attajak.github.io)
 
 ## Follow or Contact
 
