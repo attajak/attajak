@@ -1,11 +1,13 @@
-# Attajak Janrak [@attajak](https://github.com/attajak)
+# [attajak](https://github.com/attajak)
 
 <!-- Start Replit Badge -->
 [![@Attajak on Replit](https://replit.com/badge?caption=@Attajak%20on%20Replit)](https://replit.com/@attajak)
 <!-- End Replit Badge -->
 
-**ชื่อ** คิง **เกิด** ๘ สิงหาฯ **เลือดกรุ๊ป** เอ  
-**ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_  
+**ชื่อ** คิง  
+**เกิด** ๘ สิงหาฯ  
+**เลือดกรุ๊ป** เอ  
+**ชอบ** _ดูหนัง_ _ฟังเพลง_ _เล่นเกม_  
 🇹🇭
 
 ## คำคม
@@ -43,7 +45,7 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
 
-[![attajak](/mstile-150x150.png)](https://attajak.github.io/attajak)
+[![attajak](/android-chrome-512x512.png)](https://attajak.github.io/attajak)
 
 - 👋 Hi, I’m [attajak](https://github.com/attajak)
 - 👀 I’m interested in ...

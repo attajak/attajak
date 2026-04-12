@@ -3,7 +3,7 @@ baseurl: "/attajak"
 permalink: pretty
 timezone: "Asia/Bangkok"
 
-title: "Attajak Janrak"
+title: "attajak"
 author: "attajak"
 email: "janrak@gmail.com"
 description: "Config file for my GitHub profile"
@@ -21,4 +21,4 @@ plugins:
   - jekyll-readme-index
 
 # theme: minima
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.2
