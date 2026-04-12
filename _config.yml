@@ -17,8 +17,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-site-map
+  - jekyll-sitemap
   - jekyll-readme-index
 
 # theme: minima
-remote_theme: jekyll/minina@v2.5.2
+remote_theme: jekyll/minima
