@@ -1,6 +1,7 @@
 url: "https://attajak.github.io"
 baseurl: "/attajak"
 permalink: pretty
+timezone: "Asia/Bangkok"
 
 title: "Attajak Janrak"
 author: "attajak"
@@ -19,5 +20,5 @@ plugins:
   - jekyll-site-map
   - jekyll-readme-index
 
-theme: minima
-# remote_theme: jekyll/minina
+# theme: minima
+remote_theme: jekyll/minina@v2.5.2

@@ -8,7 +8,11 @@
 **ชอบ**_ดูหนัง-อนิเมะ_ _ฟังเพลง_ _เล่นเกม_  
 🇹🇭
 
-[![attajak](/android-chrome-512x512.png)](https://attajak.github.io)
+## คำคม
+
+> แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร
+
+> งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย
 
 ## Follow or Contact
 
@@ -28,7 +32,7 @@ WordPress: | <https://attajak.wordpress.com>
 Blogger: | <https://attajak.blogspot.com>
 Replit: | [@attajak](https://replit.com/@attajak)
 Facebook: | [attajak](https://facebook.com/attajak)
-Twitter: | [@attajak](https://twitter.com/attajak)
+X/Twitter: | [@attajak](https://x.com/attajak)
 Fediverse | [@attajak@mastodon.in.th](https://mastodon.in.th/@attajak)
 Threads: | [@attajak](https://www.threads.net/@attajak)
 Instagram: | [attajak](https://instagram.com/attajak)
@@ -39,19 +43,13 @@ Outlook: | [Attajak at Outlook.com](mailto:attajak@outlook.com)
 
 ---
 
-## คำคม
+[![attajak](/mstile-150x150.png)](https://attajak.github.io/attajak)
 
-> แค่อยากทำหน้าที่ให้ดีที่สุด ไม่ได้อยากเป็นวีรบุรุษของใคร
-
-> งานมีขี้บ่อย งานน้อยไม่ค่อยขี้ งานไม่มีไม่ขี้เลย
-
----
-
-- 👋 Hi, I’m [@attajak](https://github.com/attajak)
+- 👋 Hi, I’m [attajak](https://github.com/attajak)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-attajak/attajak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!-- attajak/attajak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
